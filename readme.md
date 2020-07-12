@@ -1,6 +1,6 @@
 It sometimes happens that node modules
 packages come with some problems which you
-don't have time to wait until the fix it
+don't have time to wait until they fix it
 and release a new version
 in this case, I suggest that you make 
 the required fix by your self and to overwrite
