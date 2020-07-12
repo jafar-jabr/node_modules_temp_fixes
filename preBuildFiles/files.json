@@ -6,7 +6,7 @@
     "to": "node_modules/full location where the file which need to be replaced without filename"
   },
   {
-    "desc": "fix image picker deprecation problem with gradle 4",
+    "desc": "fix image picker deprecation problem with gradle 6",
     "name": "gradle.properties",
     "from": "preBuildFiles/image_picker_gradle.properties",
     "to": "node_modules/react-native-image-picker/android/"
